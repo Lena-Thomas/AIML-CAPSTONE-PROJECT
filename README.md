@@ -31,3 +31,9 @@ Not yet started.
 - Python 3.13.2
 - Virtual environment: `.venv` (not committed — see `.gitignore`)
 - Each module has its own `requirements.txt` and README with module-specific installation/run steps.
+
+## How to run this repo
+
+1. Clone the repository.
+2. Create and activate a virtual environment (`.venv`).
+3. Enter each module's folder and follow its own README for that module's install/run steps, starting with `data_pipeline/README.md`.
