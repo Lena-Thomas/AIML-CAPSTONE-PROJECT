@@ -5,7 +5,7 @@ This repository contains three independent modules, each demonstrating a differe
 | Module | Folder | Status | Marks |
 |---|---|---|---|
 | 1 — Data Pipeline | `data_pipeline/` | Complete | 25 |
-| 2 — Analytics & ML | `analytics/` | Not started | 50 |
+| 2 — Analytics & ML | `analytics/` | Complete | 50 |
 | 3 — GenAI Support Assistant | `support_assistant/` | Not started | 25 |
 
 ## Module 1 — Data Pipeline
@@ -16,9 +16,9 @@ See [`data_pipeline/README.md`](data_pipeline/README.md) for full details, insta
 
 ## Module 2 — Analytics & Machine Learning
 
-Will explore, clean, and model the Titanic dataset — covering EDA, classification, regression, and a saved end-to-end prediction pipeline.
+Explores, cleans, and models the Titanic dataset — covering EDA, three classifiers (Logistic Regression, Decision Tree, Random Forest), imbalance handling, hyperparameter tuning, a regression side-task, and a saved end-to-end prediction pipeline.
 
-Not yet started.
+See [`analytics/README.md`](analytics/README.md) for full details, all written interpretations, the model comparison table, and the final recommendation.
 
 ## Module 3 — GenAI Support Assistant
 
